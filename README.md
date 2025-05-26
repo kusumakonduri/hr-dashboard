@@ -1,7 +1,7 @@
 
 # Employee Dashboard App
 
-A responsive employee dashboard built with **React**, **Vite**, **Tailwind CSS**, **Zustand**, and **Chart.js**.
+A responsive employee dashboard built with  **Next.js** **React**, **Vite**, **Tailwind CSS**, **Zustand**, and **Chart.js**.
 
 ## 🚀 Features
 
